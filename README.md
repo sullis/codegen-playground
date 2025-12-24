@@ -9,3 +9,5 @@
 - [Square kotlinpoet](https://github.com/square/kotlinpoet)
 - [Square javapoet](https://github.com/square/javapoet)
 - [Palantir javapoet](https://github.com/palantir/javapoet)
+- [micronaut sourcegen](https://github.com/micronaut-projects/micronaut-sourcegen)
+  
