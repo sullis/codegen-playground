@@ -3,3 +3,9 @@
 ## Presentations
 - [Code Generation on the Java VM - Portland Java User Group](https://speakerdeck.com/sullis/code-generation-on-the-java-vm-2022-04-19) - April 19 2022
 - [Code Generaton on the Java VM - Montreal JUG](https://speakerdeck.com/sullis/code-generation-on-the-java-vm-2019-12-05) - December 5 2019
+
+## Code
+- [seed4j](https://github.com/seed4j/seed4j)
+- [Square kotlinpoet](https://github.com/square/kotlinpoet)
+- [Square javapoet](https://github.com/square/javapoet)
+- [Palantir javapoet](https://github.com/palantir/javapoet)
