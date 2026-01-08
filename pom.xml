@@ -49,7 +49,7 @@
     <dependency>
       <groupId>com.palantir.javapoet</groupId>
       <artifactId>javapoet</artifactId>
-      <version>0.9.0</version>
+      <version>0.10.0</version>
     </dependency>
     <dependency>
       <groupId>io.micronaut.sourcegen</groupId>
