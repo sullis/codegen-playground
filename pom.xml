@@ -30,7 +30,7 @@
         <commons-lang3.version>3.20.0</commons-lang3.version>
         <javapoet.version>0.12.0</javapoet.version>
         <junit.version>6.1.0-M1</junit.version>
-        <kotlinpoet.version>2.2.0</kotlinpoet.version>
+        <kotlinpoet.version>2.3.0</kotlinpoet.version>
         <logback.version>1.5.32</logback.version>
         <micronaut.sourcegen.version>1.8.4</micronaut.sourcegen.version>
         <rxjava.version>2.2.21</rxjava.version>
