@@ -26,7 +26,7 @@
         <maven.compiler.release>17</maven.compiler.release>
 
         <assertj.version>4.0.0-M1</assertj.version>
-        <commons-io.version>2.21.0</commons-io.version>
+        <commons-io.version>2.22.0</commons-io.version>
         <commons-lang3.version>3.20.0</commons-lang3.version>
         <javapoet.version>0.14.0</javapoet.version>
         <junit.version>6.1.0-M1</junit.version>
